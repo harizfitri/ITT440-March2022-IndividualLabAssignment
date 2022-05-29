@@ -36,7 +36,7 @@ int main(void)
 {
 	//To define the ip and the port
 	char *ip = "192.168.158.10";
-	const int port = 20;
+	const int port = 8888;
 	
 	//Variables define
 	int server_sockfd;
